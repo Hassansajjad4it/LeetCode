@@ -1,2 +1,2 @@
 # LeetCode
-- This is the repo of LeetCode Qestions
+- This is the repository for LeetCode Qestions
